@@ -1,0 +1,7 @@
+test\resources\LoginPage.class
+test\resources\FlightFinderPage.class
+test\resources\PageObjects.class
+test\java\FlightPurchaseTest.class
+test\resources\FlightResultsPage.class
+test\resources\ConfirmationPage.class
+test\resources\SecurePurchasePage.class
